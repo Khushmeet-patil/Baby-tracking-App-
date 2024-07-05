@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64887036590",
+    "project_id": "crossapp-4f9ca",
+    "storage_bucket": "crossapp-4f9ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64887036590:android:c6a4bc0008750b9aee2b3f",
+        "android_client_info": {
+          "package_name": "au.utas.edu.dngosai.crossapp.crossapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqUOdixt7A0lBV8HxbKqzsbtZVSTh3mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
