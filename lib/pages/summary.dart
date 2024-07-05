@@ -63,7 +63,7 @@ class _SummaryState extends State<Summary> {
                     height: 70.0,
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                          primary: Colors.teal,
+                          backgroundColor: Colors.teal,
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(20.0)
                         )
@@ -87,7 +87,7 @@ class _SummaryState extends State<Summary> {
                     width: double.infinity,
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                          primary: Colors.teal,
+                          backgroundColor: Colors.teal,
                           shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(20.0)
                           )
@@ -111,7 +111,7 @@ class _SummaryState extends State<Summary> {
                     width: double.infinity,
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                          primary: Colors.teal,
+                          backgroundColor: Colors.teal,
                           shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(20.0)
                           )
@@ -136,7 +136,7 @@ class _SummaryState extends State<Summary> {
                     width: double.infinity,
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                        primary: Colors.teal,
+                        backgroundColor: Colors.teal,
                           shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(20.0)
                           )
